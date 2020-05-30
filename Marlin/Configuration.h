@@ -484,9 +484,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Anet A6 goes Bear
-  #define DEFAULT_Kp 23.43
-  #define DEFAULT_Ki 1.71
-  #define DEFAULT_Kd 80.15
+  #define DEFAULT_Kp 22.66
+  #define DEFAULT_Ki 1.67
+  #define DEFAULT_Kd 76.95
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
